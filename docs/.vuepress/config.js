@@ -1,5 +1,5 @@
 // const sidebarParty = require('./conf/sidebar/party')
-// const sidebarSlide = require('./conf/sidebar/slide')
+const sidebarSlide = require('./conf/sidebar/slide')
 const sidebarSkills = require('./conf/sidebar/skills')
 const sidebarRepair = require('./conf/sidebar/repair')
 
@@ -59,8 +59,8 @@ module.exports = {
     //displayAllHeaders: true,//显示所有页面的标题链接
     //为方便维护侧边栏变量引用转移到./config/sidebar/下
     sidebar: {
-      // '/slide/': sidebarSlide ,
       // '/party/': sidebarParty,
+      '/slide/': sidebarSlide ,
       '/repair/': sidebarRepair,
       '/skills/': sidebarSkills,
     },

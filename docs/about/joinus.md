@@ -17,8 +17,6 @@
 
 加好友时请备注来源「QPC官网」
 
-暂时仅限北京地区360集团、360旗下、奇安信以及奇安信旗下同事加入
-
 :::
 
 <img src="https://cdn.jsdelivr.net/gh/qq-perf/pic@main/2022/helper.jpeg" alt="微信扫一扫" style="width:200px;"/>
