@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: 
-heroText: 奇友会
+heroText: QPC
 tagline: 电子城机车爱好者指定俱乐部
 actionText: 加入俱乐部
 actionLink: /about/joinus
@@ -14,13 +14,13 @@ features:
   details: 天下摩友一家，奇友们更是如此。
 - title: 成长
   details: 思想碰撞，百花齐放，携手同行，一起成长。
-footer: Copyright © 2021 奇友会
+footer: Copyright © 2021 QPC
 ---
 
 
 ::: note 关于我们
 
-奇友会（前身360摩友会）是由奇虎360和奇安信一群萌新自发组织的一个小群体，成立于<span style="border-bottom:1px solid #90a4ae;">2018.09.17</span>。人数不多但互相**友爱**，同时我们在不断的**成长**中。
+QPC（前身360摩友会）是由奇虎360和奇安信一群萌新自发组织的一个小群体，成立于<span style="border-bottom:1px solid #90a4ae;">2018.09.17</span>。人数不多但互相**友爱**，同时我们在不断的**成长**中。
 
 在加入摩托车的道路上，同样作为新手小白的我们，经常会遇到一些问题，然后我们向周围前辈们进行咨询或求助，最终得到了相应的答案。
 

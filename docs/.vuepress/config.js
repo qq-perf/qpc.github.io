@@ -5,10 +5,10 @@ const sidebarRepair = require('./conf/sidebar/repair')
 const sidebarSkills = require('./conf/sidebar/skills')
 
 module.exports = {
-  title: '奇友会',
+  title: 'QPC',
   description: '电子城机车爱好者指定俱乐部',
   head: [
-    ['meta', { name: 'keywords', content: '360摩托,360机车,360摩友,360MOTOR,奇安信,奇安信摩托,奇安信机车,奇安信摩友,奇虎,奇虎摩托,奇虎机车,奇虎摩友,骑友会,奇友会,摩友会,互联网机车,机车爱好者' }],
+    ['meta', { name: 'keywords', content: '360摩托,360机车,360摩友,360MOTOR,奇安信,奇安信摩托,奇安信机车,奇安信摩友,奇虎,奇虎摩托,奇虎机车,奇虎摩友,骑友会,QPC,摩友会,互联网机车,机车爱好者' }],
   ],
   markdown: {
     lineNumbers: false // 代码块显示行号
