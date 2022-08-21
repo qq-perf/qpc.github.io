@@ -6,9 +6,9 @@ const sidebarSkills = require('./conf/sidebar/skills')
 
 module.exports = {
   title: 'QPC',
-  description: '电子城机车爱好者指定俱乐部',
+  description: '科兴性能车指定俱乐部',
   head: [
-    ['meta', { name: 'keywords', content: '360摩托,360机车,360摩友,360MOTOR,奇安信,奇安信摩托,奇安信机车,奇安信摩友,奇虎,奇虎摩托,奇虎机车,奇虎摩友,骑友会,QPC,摩友会,互联网机车,机车爱好者' }],
+    ['meta', { name: 'keywords', content: 'QPC' }],
   ],
   markdown: {
     lineNumbers: false // 代码块显示行号
@@ -29,13 +29,13 @@ module.exports = {
     }],
     'vuepress-plugin-baidu-autopush',
     ['sitemap', {
-      hostname: 'https://moyou.club'
+      hostname: 'https://qq-perf.club'
     }],
   ],
   themeConfig: {
-    repo: 'EngrZhou/moyou',
+    repo: 'qq-perf/qpc.github.io',
     editLinks: true,
-    docsRepo: 'EngrZhou/moyou',
+    docsRepo: 'qq-perf/qpc.github.io',
     docsDir: 'docs',
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间
@@ -67,9 +67,9 @@ module.exports = {
       '/skills/': sidebarSkills,
     },
     algolia: {
-      appId: 'WPG0KS5PB1',
-      apiKey: '8cbe5822e8b9963024b7d5662d44ef35',
-      indexName: 'moyou'
+      appId: '7AJPHQ1T68',
+      apiKey: 'bd670820b10ee6b3a32dca912d65c689',
+      indexName: 'qpc'
     }
   }
 }
