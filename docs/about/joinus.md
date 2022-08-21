@@ -4,10 +4,10 @@
 
 ::: tip
 
-我们更欢迎您以此形式加入我们，当然Github的形式对于非技术人员来说，门槛会比较高。
+我们更欢迎您以此形式加入我们，当然 Github 的形式对于非技术人员来说，门槛会比较高。
 
 :::
-**Github:** [https://github.com/EngrZhou/moyou](https://github.com/EngrZhou/moyou)
+**Github:** [https://github.com/qq-perf/qpc.github.io](https://github.com/qq-perf/qpc.github.io)
 
 ## QPC微信群
 
@@ -21,4 +21,4 @@
 
 :::
 
-<img src="https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210909172817.png" alt="微信扫一扫" style="width:200px;"/>
+<img src="https://cdn.jsdelivr.net/gh/qq-perf/pic@main/2022/helper.jpeg" alt="微信扫一扫" style="width:200px;"/>

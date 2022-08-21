@@ -1,6 +1,3 @@
-const sidebarDriverLicense = require('./conf/sidebar/driverLicense')
-const sidebarGarage = require('./conf/sidebar/garage')
-const sidebarEquipment = require('./conf/sidebar/equipment')
 const sidebarRepair = require('./conf/sidebar/repair')
 const sidebarSkills = require('./conf/sidebar/skills')
 
@@ -40,11 +37,10 @@ module.exports = {
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间
     nav: [
-      { text: '驾考车检', link: '/driver-license/' }, // 内部链接 以docs为根目录
-      { text: '选车登记', link: '/garage/' }, // 内部链接
-      { text: '骑行装备', link: '/equipment/' }, // 内部链接
+      { text: '聚会活动', link: '/party/' }, // 内部链接 以docs为根目录
+      { text: '溜车打卡', link: '/slide/' }, // 内部链接
       { text: '维修保养', link: '/repair/' }, // 内部链接
-      { text: '骑技心得', link: '/skills/' }, // 内部链接
+      { text: '驾驶心得', link: '/skills/' }, // 内部链接
       // 下拉列表
       {
         text: '关于',
@@ -60,9 +56,8 @@ module.exports = {
     //displayAllHeaders: true,//显示所有页面的标题链接
     //为方便维护侧边栏变量引用转移到./config/sidebar/下
     sidebar: {
-      '/driver-license/': sidebarDriverLicense,
-      '/garage/': sidebarGarage,
-      '/equipment/': sidebarEquipment,
+      '/slide/': require('./conf/sidebar/slide'),
+      '/party/': require('./conf/sidebar/party'),
       '/repair/': sidebarRepair,
       '/skills/': sidebarSkills,
     },
