@@ -1,13 +1,4 @@
 # These are supported funding model platforms
 
 github: m9rco
-patreon: m9rco 
-open_collective: m9rco 
-ko_fi: # m9rco 
-tidelift: m9rco
-community_bridge: m9rco
-liberapay: m9rco
-issuehunt: m9rco 
-otechie: m9rco
-lfx_crowdfunding: m9rco
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ["tenent.com"]
