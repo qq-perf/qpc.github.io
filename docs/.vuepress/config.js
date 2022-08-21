@@ -1,7 +1,7 @@
 // const sidebarParty = require('./conf/sidebar/party')
-// const sidebarSlide = require('./conf/sidebar/repair')
+// const sidebarSlide = require('./conf/sidebar/slide')
 const sidebarSkills = require('./conf/sidebar/skills')
-const sidebarRepair = require('./conf/sidebar/slide')
+const sidebarRepair = require('./conf/sidebar/repair')
 
 
 module.exports = {
