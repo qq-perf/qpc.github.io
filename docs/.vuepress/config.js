@@ -9,6 +9,7 @@ module.exports = {
   description: '科兴性能车指定俱乐部',
   head: [
     ['meta', { name: 'keywords', content: 'QPC' }],
+    ['script', { src: 'https://cdn.jsdelivr.net/gh/qq-perf/pic@main/cdn/swiper.min.js' }],
   ],
   markdown: {
     lineNumbers: false // 代码块显示行号
